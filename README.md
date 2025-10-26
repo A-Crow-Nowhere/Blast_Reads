@@ -45,10 +45,10 @@ conda activate blastenv
 
 cd~
 mkdir -p /bin/blast_tool/bin
-wget https://raw.githubusercontent.com/A-Crow-Nowhere/MalariAPI/main/scripts/blast/blast.sh
-wget https://raw.githubusercontent.com/A-Crow-Nowhere/MalariAPI/main/setup/blast/make_db.sh
-wget https://raw.githubusercontent.com/A-Crow-Nowhere/MalariAPI/main/scripts/blast/summarize_top_genus_proportions.py
-wget https://raw.githubusercontent.com/A-Crow-Nowhere/MalariAPI/main/scripts/blast/summarize.sh
+wget https://raw.githubusercontent.com/A-Crow-Nowhere/Blast_Reads/main/blast/blast.sh
+wget https://raw.githubusercontent.com/A-Crow-Nowhere/Blast_Reads/main/setup/blast/make_db.sh
+wget https://raw.githubusercontent.com/A-Crow-Nowhere/Blast_Reads/main/blast/summarize_top_genus_proportions.py
+wget https://raw.githubusercontent.com/A-Crow-Nowhere/Blast_Reads/main/blast/summarize.sh
 
 chmod +x summarize_top_genus_proportions.py
 chmod +x blast.sh
