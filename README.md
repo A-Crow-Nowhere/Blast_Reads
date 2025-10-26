@@ -35,6 +35,8 @@ GCF_000819615.1	Plant
 GCF_000819025.1	PhiX
 GCF_000316655.1	pUC19
 ```bash
+The install and run guides assume you work from the home directory. Change path names to match your working environment. 
+
 cd~
 cd envs/yaml
 wget https://raw.githubusercontent.com/A-Crow-Nowhere/Blast_Reads/main/blastenv.yml
