@@ -37,7 +37,7 @@ GCF_000316655.1	pUC19
 ```bash
 cd~
 cd envs/yaml
-wget https://raw.githubusercontent.com/A-Crow-Nowhere/MalariAPI/main/yaml/blastenv.yml
+wget https://raw.githubusercontent.com/A-Crow-Nowhere/Blast_Reads/main/blastenv.yml
 conda env create -f blastenv.yml
 conda activate blastenv
 
